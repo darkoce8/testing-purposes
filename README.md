@@ -1,5 +1,9 @@
-# Header
-Hi
+# Setup
+Create GitHub Repository
 
-## Subheader
-Hi
+## Commands
+git clone <url>
+cd <folder>
+git add .
+git commit -m "Heading" -m "Subheading"
+git push
